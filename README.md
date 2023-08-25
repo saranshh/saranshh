@@ -34,7 +34,7 @@
 <!-- 💻 All of my projects are available at : [<img src="https://img.shields.io/badge/Projects-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=white">](https://github.com/saranshh?tab=repositories) 
 [<img src="https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=White">](https://github.com/saranshh?tab=repositories) -->
 
-<p> Hello, I am Krishna an enthusiastic front-end developer specializing in MERN Stack and creating captivating and user-friendly web experiences.
+<p> Hello, I am Saransh, an enthusiastic front-end developer specializing in MERN Stack and creating captivating and user-friendly web experiences.
 
 I have a solid foundation in HTML, CSS, Bootstrap, JavaScript, and ReactJS, I transform imaginative designs into functional websites.
 
@@ -52,9 +52,7 @@ I have a solid foundation in HTML, CSS, Bootstrap, JavaScript, and ReactJS, I tr
    
   **<p align="left">  👥 Let's Connect 🤝  </p>**
 
-<a href="https://www.linkedin.com/in/Krishna365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a> <a href = "mailto:krishnassss365@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- <a href = "https://dev.to/krisshnacool"><img src="https://img.shields.io/badge/Dev-E4405F?style=for-the-badge&logo=dev&logoColor=white" 
- target="_blank"></a>
+<a href="www.linkedin.com/in/saransh-chaurasia-8b9091203" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></a> <a href = "mailto:saranshchaurasia9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
 
 **<p align="left">  💻 Tech stack 🛠 </p>**
@@ -87,7 +85,7 @@ I have a solid foundation in HTML, CSS, Bootstrap, JavaScript, and ReactJS, I tr
 </div> 
 
  
-[![Poro](https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1)](https://krishnaaportfolio.netlify.app/)
+[![Poro](https://i0.wp.com/graficus.com/wp-content/uploads/2021/06/Portfolio-header.jpg?fit=2120%2C639&ssl=1)](https://saranshh.github.io/about/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
