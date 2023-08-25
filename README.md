@@ -9,7 +9,7 @@
 <!--   <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%"> -->
   
   
-  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=Krishna11118&text=Hi+I'm+Saransh&fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%">
+  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=saranshh&text=Hi+I'm+Saransh&fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%">
 </a>
 
 
@@ -21,7 +21,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer||Web+Developer;React.JS+Developer+From+🇮🇳&font=Fira%20Code&center=true&width=700&height=50&weight=1100&size=32&duration=2000&pause=2000">  -->
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=krishna11118&label=Profile%20views&color=0e75b6&style=flat" alt="krishna11118 " /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saranshh&label=Profile%20views&color=0e75b6&style=flat" alt="saranshh " /> </p>
 
 
   
@@ -31,8 +31,8 @@
 - 🔭 I’m looking to collaborate on any good project on **Fintech**
 - 💬 Ask me about : **JAVASCRIPT / REACT** -->
 
-<!-- 💻 All of my projects are available at : [<img src="https://img.shields.io/badge/Projects-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=white">](https://github.com/Krishna11118?tab=repositories) 
-[<img src="https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=White">](https://github.com/Krishna11118?tab=repositories) -->
+<!-- 💻 All of my projects are available at : [<img src="https://img.shields.io/badge/Projects-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=white">](https://github.com/saranshh?tab=repositories) 
+[<img src="https://img.shields.io/badge/Portfolio-2CA5E0?style=for-the-badge&logo=portfolio&logoColor=White">](https://github.com/saranshh?tab=repositories) -->
 
 <p> Hello, I am Krishna an enthusiastic front-end developer specializing in MERN Stack and creating captivating and user-friendly web experiences.
 
@@ -44,9 +44,9 @@ I have a solid foundation in HTML, CSS, Bootstrap, JavaScript, and ReactJS, I tr
 
 <div>
 <!--         <a href="https://github.com/FahimFBA?tab=followers"> -->
-<!--          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Krishna11118?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a> -->
+<!--          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/saranshh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a> -->
       <a href="https://github.com/FahimFBA?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Krishna11118?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/saranshh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
       
    
@@ -78,10 +78,10 @@ I have a solid foundation in HTML, CSS, Bootstrap, JavaScript, and ReactJS, I tr
 
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna11118&theme=white" alt="Krishna11118" /></p>  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saranshh&theme=white" alt="saranshh" /></p>  
 
 
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna11118&theme=react&hide_border=false" alt="GitHub Streak" width="500"/> 
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=saranshh&theme=react&hide_border=false" alt="GitHub Streak" width="500"/> 
 -->
 
 </div> 
