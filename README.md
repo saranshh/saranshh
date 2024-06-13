@@ -25,9 +25,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saranshh&label=Profile%20views&color=0e75b6&style=flat" alt="saranshh " /> </p>
 
 
-<p> Hello, I am Saransh, an enthusiastic front-end developer specializing in MERN Stack and creating captivating and user-friendly web experiences.
+<p> Hello, I am Saransh, an enthusiastic Full Stack developer specializing in MERN Stack and creating captivating and user-friendly web experiences.
 
-I have a solid foundation in HTML, CSS, Bootstrap, JavaScript, and ReactJS, I transform imaginative designs into functional websites.
+I have a solid foundation in HTML, CSS, Bootstrap, JavaScript, ReactJS, Angular, NodeJs, ExpressJs and MongoDB, I transform imaginative designs into functional websites.
 
 <!-- I thrive on continuous learning, staying updated with the latest technologies and trends. Collaboration is at the core of my process, working closely with designers and stakeholders to create visually stunning and intuitive websites. </p> -->
 
