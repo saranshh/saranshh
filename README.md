@@ -9,10 +9,8 @@
 <!--   <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%"> -->
   
   
-<!--  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=saranshh&text=Hi+I'm+Saransh&fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%"> -->
-  [![Saransh's GitHub cover](/api/get-cover?username=saranshh&text=Hola,+I'm+Saransh)](https://github.com/saranshh)
-
-
+<!--  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=saranshh&text=Hi+I'm+Saransh&fontFamily='Rubik+Maze'&pattern='p2'" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%"> --> 
+<img src="https://cool-covers.vercel.app/api/get-cover?username=saranshh&text=Hi+I'm+@saranshh&fontFamily=Silkscreen&pattern=p6&textFontSize=4.5rem&textWordSpacing=25px" alt="Please reload as it seems the image is not loaded properly" height="280px" width="100%">
 </a>
  
 
